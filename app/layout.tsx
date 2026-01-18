@@ -8,8 +8,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Did Zach Crawley Outscore His Golf Handicap?',
-  description: 'The last time Zach Crawley played cricket, did he outscore his golf handicap of 1?',
+  title: 'Did Zak Crawley Outscore His Golf Handicap?',
+  description: 'The last time Zak Crawley played cricket, did he outscore his golf handicap of 1?',
   generator: 'v0.app',
   icons: {
     icon: [

@@ -8,7 +8,7 @@ export default function Home() {
       <div className="max-w-2xl w-full text-center space-y-8">
         {/* Title */}
         <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-foreground leading-tight text-balance">
-          The Last Time Zach Crawley Played Cricket, Did He Outscore His Golf Handicap?
+          The Last Time Zak Crawley Played Cricket, Did He Outscore His Golf Handicap?
         </h1>
 
         {/* The Answer */}
@@ -37,9 +37,9 @@ export default function Home() {
         {/* Handicap Explanation */}
         <div className="pt-6 max-w-md mx-auto">
           <p className="text-sm text-muted-foreground leading-relaxed">
-            Zach{"'"}s golf handicap is <span className="font-semibold text-foreground">1</span>.
+            Zak{"'"}s golf handicap is <span className="font-semibold text-foreground">1</span>.
             You don{"'"}t get that good at golf without putting in serious hours on the course.
-            Fortunately for Zach, the England cricket schedule leaves him with
+            Fortunately for Zak, the England cricket schedule leaves him with
             <span className="italic"> plenty </span> of free time to work on his short game.
           </p>
         </div>
